@@ -1,0 +1,100 @@
+/*Write all of your CSS here*/
+
+body{
+    text-align: center;
+    color: white;
+    background-size: 100% 100%;
+    background: url("/images/dawn.jpg");
+}
+
+#Container{
+    height: 900px;
+    width:600px;
+    text-align: center;
+    color: white;
+
+    
+}
+
+#Logform{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 210px;
+    text-align: center;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    text-emphasis: right;
+    padding: 20px auto;
+}
+
+#Regform{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 10px 10px 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    text-emphasis: left;
+    padding: 20px auto;
+}
+
+h1{
+    font-family: 'Catamaran', sans-serif;
+}
+
+label{
+    font-family: 'Catamaran', sans-serif;
+
+}
+
+
+#Wrapper{
+    height: 900px;
+    width:600px;
+    text-align: center;
+    color: white;
+    border: 2px solid black;
+    
+}
+
+#left{
+    border: 2px solid white;
+    display: left;
+    vertical-align: top;
+    margin-right: 100px;
+    width: 375px;
+}
+
+#right{
+    border: 2px solid white;
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+}
+#Playlist{
+    border: 2px solid white;
+    display: inline-block;
+    vertical-align: left;
+   
+}
+
+#Center{
+    border: 2px solid white;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#musicPlayer{
+    vertical-align: bottom;
+    width: 500px;
+    border: 2px solid white;
+}
+
+#Users{
+    border: 2px solid white;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
